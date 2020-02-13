@@ -1,9 +1,6 @@
 # Code-Blocks
 My works related to Code::Blocks text editor.
 
-# Express
-My works related to Express web application framework for Node.js
-
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
